@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamraj-28&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamraj-28" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working in JAVA
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamraj-28?tab=repositories](https://github.com/shubhamraj-28?tab=repositories)
 
 - 📫 How to reach me **rajshubham2001@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X-SQ6E6_GEqG_ncLkogjzUXW89jh2Xo4/view?usp=sharing](https://drive.google.com/file/d/1X-SQ6E6_GEqG_ncLkogjzUXW89jh2Xo4/view?usp=sharing)
 
 - ⚡ Fun fact **I like sleeping**
 
